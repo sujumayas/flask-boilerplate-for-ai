@@ -1,0 +1,99 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment Files
+.env
+.env.local
+.env.*
+**/.env
+**/.env.local
+**/.env.*
+
+# Editor Directories and Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dependency Directories
+**/node_modules/
+**/jspm_packages/
+**/bower_components/
+
+# Build Outputs
+**/dist/
+**/build/
+**/out/
+**/.next/
+
+# Logs
+**/logs
+**/*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Runtime Data
+**/pids
+**/*.pid
+**/*.seed
+**/*.pid.lock
+
+# Testing
+**/coverage/
+**/.nyc_output
+
+# Temporary Files
+**/.tmp/
+**/.temp/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*.so
+**/.Python
+**/env/
+**/venv/
+**/.venv/
+**/ENV/
+
+# Java
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+**/*.logs
+**/*.iml
+
+# Ruby
+**/.bundle/
+**/vendor/bundle
+**/.gem/
+
+# Compiled Source
+**/*.com
+**/*.class
+**/*.dll
+**/*.exe
+**/*.o
+**/*.so
+
+# Packages
+**/*.7z
+**/*.dmg
+**/*.gz
+**/*.iso
+**/*.jar
+**/*.rar
+**/*.tar
+**/*.zip
+
+# Databases
+**/*.sqlite
+**/*.db
+
+# Project-specific ignores (customize as needed)
+**/project1/specific_file_to_ignore.txt
+**/project2/another_specific_file.txt
